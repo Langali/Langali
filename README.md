@@ -4,7 +4,7 @@
 
 Physics + Computer Engineering dual major at the University of Tennessee. I build software for physical systems: measurement pipelines, ML for science, and AI agents that operate real instruments.
 
-**Currently:** agentic AI research at UTK (multi-agent systems on A2A/MCP, extending with RL for vision-language agents; manuscript under review) · building **Plato**, a voice-based Socratic math tutor (private while in development — demo on request) · TA for computational physics
+**Currently:** agentic AI research at UTK (multi-agent systems on A2A/MCP, extending with RL for vision-language agents; manuscript under review) · building **Plato**, a voice-based Socratic math tutor (private while in development — demo on request) · TA for MATLAB/EXCEL
 
 **Previously:**
 - **SLAC National Accelerator Laboratory** (2026) — built the automated cryogenic characterization pipeline for a 28nm CMOS ASIC. 1st place, SLAC Ignite Off; 2nd, DOE national finals.
