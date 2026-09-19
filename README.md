@@ -7,7 +7,7 @@ Physics + Computer Engineering dual major at the University of Tennessee. I buil
 **Currently:** agentic AI research at UTK (multi-agent systems on A2A/MCP, extending with RL for vision-language agents; manuscript under review) · building **Plato**, a voice-based Socratic math tutor (private while in development — demo on request) · TA for MATLAB/EXCEL
 
 **Previously:**
-- - **SLAC National Accelerator Laboratory** (2026) — built the automated cryogenic
+-  **SLAC National Accelerator Laboratory** (2026) — built the automated cryogenic
   characterization pipeline for a 28nm CMOS ASIC (in the collaboration's
   [28nm-pdk repo](https://github.com/bglenardo/28nm-pdk) — 1st place, SLAC Ignite Off; 2nd, DOE national finals.
 - **Oak Ridge National Laboratory** (2023–2025) — three summers: adversarial ML (published, Electronic Imaging 2025), image inpainting for microscopy, MACE foundation-model fine-tuning.
